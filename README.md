@@ -53,7 +53,7 @@ I am pursuing Btech Degree in Computer Science Engineering from [Nutan College o
 
 <p> 
 <img src="Icons/VScode.png" width="100px">
-<img src="Icons/.png" width="100px">
+<img src="Icons/Eclipse.png" width="100px">
 </p>
 
 #### Operating Systems:
@@ -66,11 +66,8 @@ I am pursuing Btech Degree in Computer Science Engineering from [Nutan College o
 ## Connect with me:
 
 <p align = "center">
-[![LinkedIn]()]()
-[![Alt text]()]()
-[![Alt text]()]()
-[![Alt text]()]()
-[![Alt text]()]()
+<a href="https://www.linkedin.com/in/sudarshankakad7672"><img src="Icons/Linkedin.png" width="100px"></a>
+<a href="https://leetcode.com/Sudarshan7672/"><img src="Icons/Leetcode.png" width="100px"></a>
 </p>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
