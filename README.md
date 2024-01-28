@@ -35,13 +35,13 @@ I am pursuing Btech Degree in Computer Science Engineering from [Nutan College o
 <img src="Icons/TailwindCss.png" width="100px">
 </p>
 
-#### Database
+#### Database:
 
 <p> 
 <img src="Icons/SQL.png" width="100px">
 </p>
 
-#### Business Tools
+#### Business Tools:
 
 <p> 
 <img src="Icons/MSOffice.png" width="100px">
@@ -49,7 +49,7 @@ I am pursuing Btech Degree in Computer Science Engineering from [Nutan College o
 <img src="Icons/PrimerePro.png" width="100px">
 </p>
 
-#### IDEs
+#### IDEs:
 
 <p> 
 <img src="Icons/VScode.png" width="100px">
@@ -69,17 +69,6 @@ I am pursuing Btech Degree in Computer Science Engineering from [Nutan College o
 <a href="https://www.linkedin.com/in/sudarshankakad7672" target="_blank"><img src="Icons/Linkedin.png" width="100px"></a>
 <a href="https://leetcode.com/Sudarshan7672/" target="_blank"><img src="Icons/Leetcode.png" width="100px"></a>
 </p>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<!-- 
-----
-[<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshsamariya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
 
 <!--
 **themlphdstudent/themlphdstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
