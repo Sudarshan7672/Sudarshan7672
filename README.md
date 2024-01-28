@@ -30,6 +30,7 @@ I am pursuing Btech Degree in Computer Science Engineering from [Nutan College o
 [NodeJs](image_url)
 [ReactJs](image_url)
 [BootStrap]()
+<img src="Icons/Bootstrap.png">
 [TailWind]()
 
 #### Database
