@@ -66,8 +66,8 @@ I am pursuing Btech Degree in Computer Science Engineering from [Nutan College o
 ## Connect with me:
 
 <p align = "center">
-<a href="https://www.linkedin.com/in/sudarshankakad7672"><img src="Icons/Linkedin.png" width="100px"></a>
-<a href="https://leetcode.com/Sudarshan7672/"><img src="Icons/Leetcode.png" width="100px"></a>
+<a href="https://www.linkedin.com/in/sudarshankakad7672" target="_blank"><img src="Icons/Linkedin.png" width="100px"></a>
+<a href="https://leetcode.com/Sudarshan7672/" target="_blank"><img src="Icons/Leetcode.png" width="100px"></a>
 </p>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
