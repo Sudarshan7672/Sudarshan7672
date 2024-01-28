@@ -18,41 +18,50 @@ I am pursuing Btech Degree in Computer Science Engineering from [Nutan College o
 ## Skills:
 
 #### Languages:
-
-[JavaScript](image_url)
-[Java](image_url)
-[Python](image_url)
-[C](image_url)
+<p> 
+<img src="Icons/JS.png" width="100px">
+<img src="Icons/Java.png" width="100px">
+<img src="Icons/Python.png" width="100px">
+<img src="Icons/C.png" width="100px">
+</p>
 
 #### Technologies/Frameworks:
-[HTML5](image_url)
-[CSS](image_url)
-[NodeJs](image_url)
-[ReactJs](image_url)
-[BootStrap]()
-<img src="Icons/Bootstrap.png">
-[TailWind]()
+<p> 
+<img src="Icons/Html.png" width="100px">
+<img src="Icons/Css.png" width="100px">
+<img src="Icons/NodeJs.png" width="100px">
+<img src="Icons/ReactJs.png" width="100px">
+<img src="Icons/Bootstrap.png" width="100px">
+<img src="Icons/TailwindCss.png" width="100px">
+</p>
 
 #### Database
 
-[SQL](image_url)
+<p> 
+<img src="Icons/SQL.png" width="100px">
+</p>
 
 #### Business Tools
 
-[MS-Office](image_url)
-[MS-Excel](image_url)
-[Adobe Premiere Pro](image_url)
-[AutoCad](image_url)
+<p> 
+<img src="Icons/MSOffice.png" width="100px">
+<img src="Icons/Excel.png" width="100px">
+<img src="Icons/PrimerePro.png" width="100px">
+</p>
 
 #### IDEs
 
-[VS Code](image_url)
-[Eclipse IDE](image_url)
+<p> 
+<img src="Icons/VScode.png" width="100px">
+<img src="Icons/.png" width="100px">
+</p>
 
 #### Operating Systems:
 
-[Windows](image_url)
-[Linux](image_url)
+<p> 
+<img src="Icons/Windows.png" width="100px">
+<img src="Icons/Linux.png" width="100px">
+</p>
 
 ## Connect with me:
 
